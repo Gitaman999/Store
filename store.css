@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.bignav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    background-color: red;
+    align-items: center;
+    justify-content: space-around;
+    width: 80%;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo .name {
+    font-size: 20px;
+}
+
+.logo img {
+    height: 50px;
+}
