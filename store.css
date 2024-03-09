@@ -36,3 +36,18 @@ body {
     display: flex;
     gap: 20px;
 }
+.body .card {
+    margin: 20px;
+    display: flex;
+    display: inline-block;
+    border-radius: 10px;
+    flex-direction: column;
+    padding: 10px 16px;
+    width: 30%;
+    background-color: tan;
+    position: relative;
+}
+
+.body .card img {
+    width: 100%;
+}
